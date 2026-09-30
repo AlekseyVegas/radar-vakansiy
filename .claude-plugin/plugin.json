@@ -1,0 +1,14 @@
+{
+  "name": "radar-vakansiy",
+  "displayName": "Радар вакансий",
+  "version": "0.1.0",
+  "description": "Ассистент поиска работы на русском: профиль поиска с вашими критериями, подбор и фильтр вакансий на hh.ru, сопроводительные письма под каждую вакансию без шаблонов, ежедневная очередь откликов в Excel и отчёт по результатам.",
+  "author": {
+    "name": "Алексей Пономарев",
+    "url": "https://t.me/+gppWej-rGbhmYzky"
+  },
+  "homepage": "https://t.me/+gppWej-rGbhmYzky",
+  "repository": "https://github.com/AlekseyVegas/radar-vakansiy",
+  "license": "MIT",
+  "keywords": ["поиск работы", "вакансии", "hh.ru", "резюме", "сопроводительное письмо", "карьера", "job search"]
+}
